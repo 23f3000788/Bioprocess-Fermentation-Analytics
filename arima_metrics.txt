@@ -1,0 +1,4 @@
+ARIMA(2,1,2) Biomass Forecast Evaluation (held-out last 24 hours)
+MAE  : 0.0809 g/L
+RMSE : 0.0862 g/L
+MAPE : 0.93%

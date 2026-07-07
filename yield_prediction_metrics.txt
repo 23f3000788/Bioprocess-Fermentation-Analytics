@@ -1,0 +1,8 @@
+Random Forest Yield Prediction - Evaluation
+Held-out test set:
+  RMSE: 0.2695 g/L
+  MAE : 0.1809 g/L
+  R2  : 0.9809
+5-Fold Cross-Validation:
+  RMSE: 0.2917 +/- 0.0199 g/L
+  R2  : 0.9780 +/- 0.0023
